@@ -1,0 +1,11 @@
+Bug report structure
+Author:
+Bug_id:
+Title: (What? Where? When?)
+Severity:
+Priority:
+Environment:
+Steps to reproduce:
+AR (Actual result): 
+ER (Expected result): 
+Attachments:
